@@ -1,0 +1,25 @@
+{
+    "name": "rockhopsoft/fallacy-memes",
+    "description": "Don't Fallacy Me meme images related to logical fallacies.",
+    "keywords": [
+        "laravel", 
+        "Survloop", 
+        "Don't Fallacy Me Bro",
+        "logical fallacy", 
+        "games", 
+        "multiplayer", 
+        "crowd-sourced", 
+        "critical thinking", 
+        "logical fallacies", 
+        "brain games"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Morgan Lesko",
+            "homepage": "https://github.com/rockhopsoft/fallacy",
+            "email": "rockhoppers@runbox.com",
+            "role": "Developer"
+        }
+    ]
+}
